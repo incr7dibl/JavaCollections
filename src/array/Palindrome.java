@@ -2,7 +2,7 @@ package array;
 
 public class Palindrome {
 	public static void main(String[] arg) {
-		System.out.println(isPalindrome("aasaaa".toCharArray()));
+		System.out.println(isPalindrome("aasaa".toCharArray()));
 	
 	}
 	
